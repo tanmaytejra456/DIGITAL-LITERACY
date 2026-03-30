@@ -1,0 +1,9 @@
+While researching UPI fraud, I was surprised by how simple the scam is and how easily people lose money just by entering their UPI PIN.
+I learned that scammers mainly rely on confusion between “Pay” and “Collect” requests.
+Many victims are college students who frequently use UPI and trust payment notifications without checking carefully. 
+I also discovered that reporting the fraud immediately to helpline 1930 can sometimes help stop or freeze the transaction if action is taken quickly.
+
+As a result of this research, I will change one important habit. 
+I will carefully read every UPI notification before entering my PIN and avoid approving unknown collect requests.
+I will also educate my friends that a UPI PIN is only used to send money, never to receive it. 
+This awareness can help prevent financial loss and promote safer digital payment practices.
